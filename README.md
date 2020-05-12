@@ -7,7 +7,7 @@ pip install -r requirements.txt
 
 come into `PrimaryColor.py`, then change the image path to yours, and run the code.
 
-## the blog url (Chinese language)
+## Blog url (Chinese language)
 
 https://blog.csdn.net/lhh31/article/details/52015500
 
