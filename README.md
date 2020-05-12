@@ -1,17 +1,17 @@
-## Image main color extraction, iterative realization in k-means hsv
-#### Installation Environment
+# Image main color extraction, iterative realization in k-means hsv
+## Installation Environment
 ```python
 pip install -r requirements.txt
 ```
-#### Usage
+## Usage
 
 come into `PrimaryColor.py`, then change the image path to yours.
 
-#### the blog url (Chinese language)
+## the blog url (Chinese language)
 
 https://blog.csdn.net/lhh31/article/details/52015500
 
-#### main steps, details see the blog
+## main steps, details see the blog
 
 1、获取图像RGB
 
