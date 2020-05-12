@@ -1,4 +1,8 @@
-* 安装环境
+## Image main color extraction, iterative realization in k-means hsv
+* Installation Environment
+```shell
 pip install -r requirements.txt
+```
 
-* 修改图片路径
+* Usage
+come into `PrimaryColor.py`, then change the image path to yours.
